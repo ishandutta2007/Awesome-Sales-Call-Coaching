@@ -54,7 +54,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## 💻 Open-Source GitHub Projects
 
-| Repository | Stars | Description |
+| Repository | Github_Stars | Description |
 | :--- | :--- | :--- |
 | **[openai/whisper](https://github.com/openai/whisper)** | [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers) | Robust speech recognition via large-scale weak supervision. Excellent for local, high-accuracy call transcription. |
 | **[jmorganca/ollama](https://github.com/jmorganca/ollama)** | [![GitHub stars](https://img.shields.io/github/stars/jmorganca/ollama?style=social&color=white)](https://github.com/jmorganca/ollama/stargazers) | Get up and running with Llama 3, Mistral, Gemma, and other large language models locally. Ideal for private sales coaching intelligence. |
